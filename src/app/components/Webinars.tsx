@@ -6,7 +6,7 @@ export function Webinars() {
     <>
     <div className="flex flex-col justify-center items-center py-20" >
 
-    <h3 className="text-3xl font-semibold tracking-wider">
+    <h3 className="text-3xl text-center font-semibold tracking-wider">
         Enhance your Musical Journey
       </h3>
 

@@ -40,7 +40,7 @@ export function HeroSection() {
       <div className=" p-4 max-w-7xl  mx-auto relative z-10  w-full pt-20 mt-10 md:mt-0 md:pt-0">
         <h1 className="text-6xl md:text-7xl  flex items-center font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
           <TypewriterEffectSmooth
-            cursorClassName="bg-white h-[2rem] md:h-[4rem]"
+            cursorClassName="bg-white h-[2rem] md:mt-2 md:h-[4rem]"
             className="mx-auto  "
             words={words}
           />

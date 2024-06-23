@@ -3,7 +3,7 @@ import React from "react";
 import { Spotlight } from "./ui/Spotlight";
 
 import {
-  TypewriterEffect,
+  
   TypewriterEffectSmooth,
 } from "./ui/typewriter-effect";
 import { Button } from "./ui/moving-border";

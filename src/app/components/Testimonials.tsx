@@ -8,12 +8,13 @@ export function Testimonials() {
     <div className="h-[50rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex flex-col items-center justify-center">
       <div className="text-4xl sm:text-7xl text-center font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-8 mb-10">
         Hear and Harmony: Voice of Success
-      </div>
+      </div >
 
       <InfiniteMovingCards
         items={testimonials}
         direction="right"
         speed="slow"
+        className="w-11/12 md:w-full"
       />
     </div>
   );

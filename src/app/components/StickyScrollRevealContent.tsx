@@ -53,7 +53,7 @@ const content = [
 ];
 export function StickyScrollRevealContent() {
   return (
-    <div 
+    <div className="hidden md:visible lg:visible" 
    
     >
       <StickyScroll content={content}  />

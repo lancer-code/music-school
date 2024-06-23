@@ -7,6 +7,7 @@ import {
   TypewriterEffectSmooth,
 } from "./ui/typewriter-effect";
 import { Button } from "./ui/moving-border";
+import Link from "next/link";
 
 export function HeroSection() {
   const words = [
@@ -52,12 +53,14 @@ export function HeroSection() {
         </p>
       </div>
       <div>
+        <Link href={"/courses"}>
         <Button
           borderRadius="1.75rem"
           className="bg-white  font-semibold tracking-wider dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
         >
           Explore More
         </Button>
+        </Link>
       </div>
     </div>
   );

@@ -22,7 +22,7 @@ export function Webinars() {
     </>
   );
 }
-export const projects = [
+const projects = [
   {
     title: "Stripe",
     description:

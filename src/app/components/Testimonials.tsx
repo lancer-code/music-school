@@ -14,7 +14,7 @@ export function Testimonials() {
         items={testimonials}
         direction="right"
         speed="slow"
-        className="w-11/12 md:w-full"
+        className="w-[100%] md:w-full lg:w-full"
       />
     </div>
   );

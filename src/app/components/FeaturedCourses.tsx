@@ -44,7 +44,7 @@ const projects = [
 
 const FeaturedCourses = () => {
   return (
-    <div className="bg-gray-900 flex flex-col justify-center items-center py-14 px-10">
+    <div className="bg-gray-900 flex flex-col justify-center items-center py-14 ">
       <h3 className="text-3xl font-semibold tracking-wider">
         Featured Courses
       </h3>
@@ -53,7 +53,7 @@ const FeaturedCourses = () => {
       <HoverEffect items={projects} />
     </div>
       </div>
-      <Link href={"/"}>
+      <Link href={"/courses"}>
         <button className="px-4 py-2 bg-white text-black font-semibold rounded-lg">
           View All Courses
         </button>

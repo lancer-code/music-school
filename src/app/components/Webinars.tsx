@@ -22,42 +22,36 @@ export function Webinars() {
     </>
   );
 }
-const projects = [
+const projects =[
   {
-    title: "Stripe",
-    description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "https://stripe.com",
+    title: "Living on a Prayer (Stripped Down)",
+    description: "Bon Jovi takes it slow with a stripped-down acoustic version of their iconic anthem. Perfect for reminiscing about lost love.",
+    link: "https://example.com/living-on-a-prayer-stripped-down",
   },
   {
-    title: "Netflix",
-    description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+    title: "Don't Stop Believin' (Chill Version)",
+    description: "Journey's classic gets a makeover with a relaxed tempo and smooth vocals. Ideal for unwinding after a long day.",
+    link: "https://example.com/dont-stop-believin-chill",
   },
   {
-    title: "Google",
-    description:
-      "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
+    title: "Bohemian Rhapsody (Piano Ballad)",
+    description: "Queen's masterpiece reimagined as a poignant piano ballad. A fresh perspective on a legendary song.",
+    link: "https://example.com/bohemian-rhapsody-piano",
   },
   {
-    title: "Meta",
-    description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
+    title: "Sweet Child o' Mine (Acoustic)",
+    description: "Guns N' Roses' hard-hitting rock anthem gets a gentle acoustic treatment. Rediscover the emotional core of this classic.",
+    link: "https://example.com/sweet-child-o-mine-acoustic",
   },
   {
-    title: "Amazon",
-    description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
+    title: "Imagine (Orchestral Version)",
+    description: John Lennon's timeless message of peace is given a majestic orchestral arrangement. A beautiful way to experience this iconic song.",
+    link: "https://example.com/imagine-orchestral",
   },
-  {
-    title: "Microsoft",
-    description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+   {
+    title: "Living on a Prayer (Stripped Down)",
+    description: "Bon Jovi takes it slow with a stripped-down acoustic version of their iconic anthem. Perfect for reminiscing about lost love.",
+    link: "https://example.com/living-on-a-prayer-stripped-down",
   },
-
+  // Add more retired choruses following the same format
 ];

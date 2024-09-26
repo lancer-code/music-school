@@ -28,6 +28,11 @@ const projects = [
     description: "John Lennon's timeless message of peace is given a majestic orchestral arrangement. A beautiful way to experience this iconic song.",
     link: "https://example.com/imagine-orchestral",
   },
+  {
+    title: "Living on a Prayer (Stripped Down)",
+    description: "Bon Jovi takes it slow with a stripped-down acoustic version of their iconic anthem. Perfect for reminiscing about lost love.",
+    link: "https://example.com/living-on-a-prayer-stripped-down",
+  },
   // Add more retired choruses following the same format
 ];
 const FeaturedCourses = () => {

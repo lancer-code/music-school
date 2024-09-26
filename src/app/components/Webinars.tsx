@@ -45,7 +45,7 @@ const projects =[
   },
   {
     title: "Imagine (Orchestral Version)",
-    description: John Lennon's timeless message of peace is given a majestic orchestral arrangement. A beautiful way to experience this iconic song.",
+    description: "John Lennon's timeless message of peace is given a majestic orchestral arrangement. A beautiful way to experience this iconic song.",
     link: "https://example.com/imagine-orchestral",
   },
    {
